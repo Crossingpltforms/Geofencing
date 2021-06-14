@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "contributortoolkit9f8b3538": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
